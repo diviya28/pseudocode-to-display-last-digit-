@@ -1,0 +1,9 @@
+Pseudocode to display last digit :
+
+BEGIN
+ READ num
+ IF number>0 THEN
+   ans=num%10
+ PRINT ans
+ ENDIF
+END
